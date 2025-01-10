@@ -55,7 +55,7 @@ The `calculate(input_signal, N)` function computes the DFT:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dft-complex.git
+   git clone https://github.com/MoKhaled2/dft-complex.git
    cd dft-complex
    ```
 
